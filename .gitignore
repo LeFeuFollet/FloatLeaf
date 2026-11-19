@@ -1,0 +1,10 @@
+/FloatLeaf.exe
+/Books/
+*.epub
+/reading-check-tmp/
+/dist/
+/.vs/
+/bin/
+/obj/
+*.user
+*.suo
